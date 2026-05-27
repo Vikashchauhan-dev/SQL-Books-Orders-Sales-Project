@@ -103,7 +103,7 @@ The project helps understand:
 
 # Data Exploratory Analysis (SQL Analysis & Queries)
 
-## Basic SQL Queries
+## SQL Queries
 
 ### 1. Retrieve all books in the "Fiction" genre
 
